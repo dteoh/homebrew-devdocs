@@ -1,4 +1,4 @@
-cask 'devdocs' do
+cask 'devdocs-macos' do
   version '0.1.0'
   sha256 'c28be227f3ec9cb1c8126b6eef73a19105e277586b70938acefa9f5852a23f82'
 
