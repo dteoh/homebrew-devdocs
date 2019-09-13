@@ -7,7 +7,7 @@ cask 'devdocs-macos' do
   homepage 'https://github.com/dteoh/devdocs-macos'
   appcast 'https://github.com/dteoh/devdocs-macos/releases.atom'
 
-  depends_on macos: :mojave
+  depends_on macos: '>= :mojave'
 
   app 'DevDocs.app'
 end
