@@ -1,6 +1,6 @@
 cask 'devdocs-macos' do
-  version '0.5.0'
-  sha256 'd89087b8e1d3c1cc4e82b20fe1dfc3cd4024bf1d2f8c7be9dffb2f7974fe5713'
+  version '0.5.1'
+  sha256 'e7c81d10fc14780e9703ff27d1c02fcb4ba3e2c69900f8e9f47993edc59e05e2'
 
   url "https://github.com/dteoh/devdocs-macos/releases/download/v#{version}/DevDocs.zip"
   name 'DevDocs for macOS'
